@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\addedit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:addedit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\addedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:addedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\models\\categ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:models\\categ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\catalog.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:catalog.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\catalog.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:catalog.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\models\\prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:models\\prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\zakazclient.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:zakazclient.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\zakazclient.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:zakazclient.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\models\\zakazpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:models\\zakazpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\models\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:models\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|c:\\users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\demo1411shubenok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:demo1411shubenok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\models\\manuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A411C08C-14B7-4AF7-A0A2-9103C53EAB9A}|demo1411shubenok.csproj|solutionrelative:models\\manuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categ.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Categ.cs",
+              "RelativeDocumentMoniker": "Models\\Categ.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Categ.cs",
+              "RelativeToolTip": "Models\\Categ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:03:37.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEdit.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\AddEdit.axaml",
+              "RelativeDocumentMoniker": "AddEdit.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\AddEdit.axaml",
+              "RelativeToolTip": "AddEdit.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T12:12:28.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEdit.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\AddEdit.axaml.cs",
+              "RelativeDocumentMoniker": "AddEdit.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\AddEdit.axaml.cs",
+              "RelativeToolTip": "AddEdit.axaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:12:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:29:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZakazPr.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\ZakazPr.cs",
+              "RelativeDocumentMoniker": "Models\\ZakazPr.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\ZakazPr.cs",
+              "RelativeToolTip": "Models\\ZakazPr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:25:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "demo1411shubenok",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\demo1411shubenok.csproj",
+              "RelativeDocumentMoniker": "demo1411shubenok.csproj",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\demo1411shubenok.csproj",
+              "RelativeToolTip": "demo1411shubenok.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T08:34:13.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Zakaz.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Zakaz.cs",
+              "RelativeDocumentMoniker": "Models\\Zakaz.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Zakaz.cs",
+              "RelativeToolTip": "Models\\Zakaz.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:19:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZakazClient.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\ZakazClient.axaml",
+              "RelativeDocumentMoniker": "ZakazClient.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\ZakazClient.axaml",
+              "RelativeToolTip": "ZakazClient.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T07:59:51.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZakazClient.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\ZakazClient.axaml.cs",
+              "RelativeDocumentMoniker": "ZakazClient.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\ZakazClient.axaml.cs",
+              "RelativeToolTip": "ZakazClient.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:59:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manuf.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Manuf.cs",
+              "RelativeDocumentMoniker": "Models\\Manuf.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Manuf.cs",
+              "RelativeToolTip": "Models\\Manuf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:07:31.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prod.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Prod.cs",
+              "RelativeDocumentMoniker": "Models\\Prod.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Models\\Prod.cs",
+              "RelativeToolTip": "Models\\Prod.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:58:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Catalog.axaml",
+              "RelativeDocumentMoniker": "Catalog.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Catalog.axaml",
+              "RelativeToolTip": "Catalog.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T10:08:29.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Catalog.axaml.cs",
+              "RelativeDocumentMoniker": "Catalog.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Catalog.axaml.cs",
+              "RelativeToolTip": "Catalog.axaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwI0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:08:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:54:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:24:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo1411\\demo1411shubenok\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:24:56.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
